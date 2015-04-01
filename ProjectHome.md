@@ -1,0 +1,1 @@
+A simple database library in Javascript. Under 2kb in size, and does not depend on any javascript libraries.
